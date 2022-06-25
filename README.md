@@ -11,3 +11,9 @@
 ### Tech. Used :- 
 - Open Cv
 - NumPy
+
+### How to use it on your machine ?
+- Get the appropriate values of HSV parameters for different markers using Color Picker File. 
+- Use the above values in providing Color list values in Main File.
+- Run the code and your own Virtual Paint ready!!
+
